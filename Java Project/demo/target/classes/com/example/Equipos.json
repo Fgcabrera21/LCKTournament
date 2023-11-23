@@ -1,0 +1,622 @@
+[
+  {
+    "teamName": "T1",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Zeus",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Oner",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Faker",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Gumayusi",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Keria",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "Kwangdong Freecs",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "DuDu",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "YoungJae",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "BuLLDoG",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Taeyoon",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Andil",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "Hanwha Life Esports",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Kingen",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Grizzly",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Zeka",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Viper",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Life",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "Dplus KIA",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Canna",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Canyon",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "ShowMaker",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Deft",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Kellin",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "Liiv SANDBOX",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Clear",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Willer",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Clozer",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Teddy",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Kael",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "kt Rolsters",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Kiin",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Cuzz",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Bdd",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Aiming",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Lehends",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "Gen.G",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Doran",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Peanut",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Chovy",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Peyz",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Delight",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "DRX",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Rascal",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "JuHan",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Fate",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "PaducK",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "BeryL",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "BRION",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "Morgan",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "UmTi",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Karis",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Hena",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Effort",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  },
+  {
+    "teamName": "Nongshim RedForce",
+    "victories": 0,
+    "defeats": 0,
+    "torresDestruidas": 0,
+    "inhibidoresDestruidos": 0,
+    "dragonesAsesinados": 0,
+    "nashorsAsesinados": 0,
+    "heraldosAsesinados": 0,
+    "roster": [
+      {
+        "playerName": "DnDn",
+        "role": "Top",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Sylvie",
+        "role": "Jg",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Quad",
+        "role": "Mid",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Jiwoo",
+        "role": "ADC",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      },
+      {
+        "playerName": "Peter",
+        "role": "Sup",
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "totalKills": 0,
+        "totalDeaths": 0,
+        "totalAssists": 0
+      }
+    ]
+  }
+]
